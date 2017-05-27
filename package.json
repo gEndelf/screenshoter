@@ -1,0 +1,16 @@
+{
+  "name": "webinspector",
+  "version": "1.0.0",
+  "description": "screenshot generator",
+  "main": "index.js",
+  "scripts": {
+    "screen": "node index.js",
+    "pscreen": "node pindex.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Padalka",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^4.0.3"
+  }
+}
